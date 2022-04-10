@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NASA Media Library</string>
+    <string name="btnSearch">Search</string>
+    <string name="etHintSearch">Search</string>
+    <string name="tieHintSearch">Search</string>
+    <string name="tvPhotographer">Photographer:</string>
+    <string name="tvLocation">Location:</string>
+    <string name="tvKeywords">Keywords:</string>
+</resources>
