@@ -7,15 +7,16 @@ Technologies / libraries and patterns used:
 
 • Clean architecture
 
-• MVVM Presentation pattern with StateFlow
+• MVVM with StateFlow
 
-• Flows with coroutines
+• Kotlin flows with coroutines
 
-• Dependecy injection with Hilt
+• Dependecy injection with Dagger Hilt
 
 • Retrofit for network requests
 
 • Glide for image loading
+
 
 
 
