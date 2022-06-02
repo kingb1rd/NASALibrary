@@ -18,6 +18,4 @@ Technologies / libraries and patterns used:
 • Glide for image loading
 
 
-
-
-NOTE: THE NASA PUBLIC API IS SLOW AF, NOT MY FAULT
+NOTA: La API de NASA es muy lenta
